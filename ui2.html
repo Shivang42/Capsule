@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<script type="text/javascript" src="timecapsule.js"></script>
+	<meta charset="utf-8">
+	<title>TIME CAPSULE</title>
+	<link rel="stylesheet" href="ui.css">
+</head>
+<body>
+	<!--main-->
+	<div class="time_capsule_window" >
+		<!--loading video-->
+			<video autoplay muted  id ="myVideo">
+ 			   <source src="background_footage_3.mp4" type="video/mp4">
+			</video> 
+		<!---->	
+			<div class="file_list_2" name="iframe_1">
+
+				<h1 class="TIMER_TEXT" id="TIMER_TEXT">HH:MM:SS</h1>
+			</div>
+			
+			
+			<!--unlock button-->
+			<div>
+
+				<input type="button" name="unlock" class="unlock_button_2" value="!!DISABLED!!" form="form1" disabled="TRUE" disabled="TRUE">
+
+			</div>
+			<!--lock button-->
+			<div>
+
+				<input type="button" name="lock" class="lock_button_2" value="!!DISABLED!!" form="form_lock"
+				onclick="show_lock_settings()" id="lock_button" disabled="TRUE">
+				
+			</div>
+			<!--------------->
+	</div><!--MAIN CLOSE-->
+</form>
+
+</body>
+</html>
