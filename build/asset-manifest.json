@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.81ae15e4.css",
-    "main.js": "/static/js/main.490d1a20.js",
+    "main.js": "/static/js/main.70a0bea6.js",
     "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
     "static/media/Oswald-VariableFont_wght.ttf": "/static/media/Oswald-VariableFont_wght.7cecd0da606d25b0905d.ttf",
     "static/media/logo (1).svg": "/static/media/logo (1).936f7c4d484839d942a0ed4a1d86f46a.svg",
@@ -9,11 +9,11 @@
     "static/media/HalfStar.svg": "/static/media/HalfStar.f7263e526c7f48b42587e13d18b8e68b.svg",
     "static/media/FullStar.svg": "/static/media/FullStar.f02ef83303f2df7be5368d05f3eaa368.svg",
     "main.81ae15e4.css.map": "/static/css/main.81ae15e4.css.map",
-    "main.490d1a20.js.map": "/static/js/main.490d1a20.js.map",
+    "main.70a0bea6.js.map": "/static/js/main.70a0bea6.js.map",
     "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81ae15e4.css",
-    "static/js/main.490d1a20.js"
+    "static/js/main.70a0bea6.js"
   ]
 }
